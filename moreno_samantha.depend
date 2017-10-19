@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1507204917 source:d:\sm\moreno_samantha\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507216013 source:d:\sm\moreno_samantha\libreria.c
+	"libreria.h"
+	"input.h"
+	<stdio.h>
+
+1507216183 d:\sm\moreno_samantha\libreria.h
+
+1507204917 d:\sm\moreno_samantha\input.h
+
+1507215912 source:d:\sm\moreno_samantha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+	"input.h"
+
+1507202654 source:d:\utn\programacion\moreno_samantha_parcial1\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508372435 source:d:\utn\programacion\moreno_samantha_parcial1\libreria.c
+	"libreria.h"
+	"input.h"
+	<stdio.h>
+	<string.h>
+
+1508367138 d:\utn\programacion\moreno_samantha_parcial1\libreria.h
+
+1507202654 d:\utn\programacion\moreno_samantha_parcial1\input.h
+
+1508372417 source:d:\utn\programacion\moreno_samantha_parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+	"input.h"
+
